@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 10 16:31:22 CET 2018:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546) : instance a816c00e-0166-fe3f-9d2b-000002b4fbf8 
+dans le répertoire de base de données G:\L3_Info\Gnebehi_TOO\GestionDePrison\gestionprison avec le chargeur de classe sun.misc.Launcher$AppClassLoader@55f96302
+Chargé de file:/G:/L3_Info/Gnebehi_TOO/GestionDePrison/dist/run2090318107/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=G:\L3_Info\Gnebehi_TOO\GestionDePrison
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
